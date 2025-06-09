@@ -8,7 +8,7 @@ I’m Dedicated IT Professional with two years of experience as Full‑Stack Eng
 
 ## 📫 **Connect with Me**
 
-- **LinkedIn**: [Connect on LinkedIn](www.linkedin.com/in/hisham-suharto-10355a126)
+- **LinkedIn**: www.linkedin.com/in/hisham-suharto-10355a126
 - **Email**: audiputra126@gmail.com
 
 ---
