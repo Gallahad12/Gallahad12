@@ -17,7 +17,7 @@ I’m Dedicated IT Professional with two years of experience as Full‑Stack Eng
 
 **Programming Languages**: Python, SQL
 
-**Data Analysis & Visualization** : Tableau, Looker Studio, Pandas, Matplotlib, SAS
+**Data Analysis & Visualization**: Tableau, Looker Studio, Pandas, Matplotlib, SAS
 
 **Database Management**: PostgreSQL, Google BigQuery, MongoDB
 
