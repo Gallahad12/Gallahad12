@@ -30,7 +30,7 @@ I’m Dedicated IT Professional with two years of experience as Full‑Stack Eng
 ## 🎓 **Education**
 
 - **Hacktiv8 Data Analytics Bootcamp**  
-  *Data Wrangling, Data Visualization (Tableau, Looker Studio), Statistical Analysis, SQL (PostgreSQL, BigQuery), NoSQL (MongoDB) and Real-time Data Pipeline Development
+  Data Wrangling, Data Visualization (Tableau, Looker Studio), Statistical Analysis, SQL (PostgreSQL, BigQuery), NoSQL (MongoDB) and Real-time Data Pipeline Development
 
 ---
 
