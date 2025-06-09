@@ -26,7 +26,6 @@ I’m Dedicated IT Professional with two years of experience as Full‑Stack Eng
 **Web & App Development**: React JS
 
 **Version Control & Collaboration**: GitHub
----
 
 ## 🎓 **Education**
 
