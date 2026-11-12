@@ -1,52 +1,34 @@
-# **Hisham Audiputra Suharto - IT Developer**
+# Hisham Audiputra Suharto · Data Engineer
 
-## 👋 **Hello and welcome!**
+I build pipelines that turn messy data into numbers people trust. Data engineer with 3+ years in software engineering: I started by building loan systems for banks, and now I build the pipelines and warehouses behind their reports.
 
-I’m Dedicated IT Professional with two years of experience as Full‑Stack Engineer  and a strong interest in Data Analytics, delivering excellence consistently. Committed to skill enhancement and exploration of innovative technologies, focused on positive impact for organizations and society while remaining current with industry practices to deliver high‑quality solutions.
+**[Portfolio](https://gallahad12.github.io)** · **[LinkedIn](https://www.linkedin.com/in/hisham-audiputra-suharto-10355a126)** · **[Download CV](https://gallahad12.github.io/assets/cv.pdf)** · **[Email](mailto:audiputra126@gmail.com)**
 
----
+Open to data engineering roles in Jakarta, Tangerang, or remote.
 
-## 📫 **Connect with Me**
+## Featured projects
 
-- **LinkedIn**: www.linkedin.com/in/hisham-suharto-10355a126
-- **Email**: audiputra126@gmail.com
+| Project | What it shows | Stack |
+|---|---|---|
+| **[Loan Portfolio Data Warehouse](https://github.com/Gallahad12/loan-data-warehouse)** | SQL Server warehouse for a multifinance loan book, loaded nightly by SSIS: incremental extracts, reject handling for dirty files, SCD Type 2, and a monthly OJK collectibility snapshot. NPL reached 5.12%, and all 402 dirty rows were caught. | SQL Server · SSIS · SQL Agent · Power BI |
+| **[E-commerce Data Warehouse](https://github.com/Gallahad12/ecommerce-data-warehouse)** | ELT pipeline on 550K raw rows of Olist data with 75 data quality checks and a tested star schema. Late orders score 2.57 in reviews against 4.29 when on time. [Live dashboard](https://datastudio.google.com/s/pjhwMohMZ4o) | Airflow · dbt · BigQuery · Great Expectations |
+| **[Traffic Crash Analysis](https://github.com/CODA-Assignment-Bay/final-project-coda-006-rmt-group-001)** | Group bootcamp project: automated ETL on Kaggle crash data with validation, visualized in Tableau and Looker Studio. | Airflow · PySpark · PostgreSQL · Tableau |
 
----
+## Experience
 
-## 🛠 **Skills**
+- **Jr Data Engineer**, Jack & Transfez (Jul 2025 – Oct 2026): Airflow pipelines into ClickHouse, Metabase query time cut from ~10 s to under 1 s, automated Excel reporting.
+- **Full Stack Engineer**, PT Nawa Data Solutions (Jul 2022 – Jan 2025): loan management systems for CIMB Niaga, Danamon, DBS, and Superbank, plus SSIS and SQL Server data integration.
 
-**Programming Languages**: Python, SQL
+## Tech stack
 
-**Data Analysis & Visualization**: Tableau, Looker Studio, Pandas, Matplotlib, SAS
+| Area | Tools |
+|---|---|
+| Pipelines | Apache Airflow, dbt, SSIS, Spark, Great Expectations |
+| Databases | BigQuery, ClickHouse, SQL Server, PostgreSQL, MongoDB |
+| BI | Power BI, Metabase, Tableau, Looker Studio |
+| Languages and tools | SQL, Python, C#, Docker, Git, GitHub Actions |
 
-**Database Management**: PostgreSQL, Google BigQuery, MongoDB
+## Education
 
-**Data Engineering & ETL**: ETL Development, Feature Engineering, Data Wrangling, Real-time Data Pipelines, Apache Airflow, Docker
-
-**Web & App Development**: React JS
-
-**Version Control & Collaboration**: GitHub
-
-## 🎓 **Education**
-
-- **Hacktiv8 Data Analytics Bootcamp**  
-  Data Wrangling, Data Visualization (Tableau, Looker Studio), Statistical Analysis, SQL (PostgreSQL, BigQuery), NoSQL (MongoDB) and Real-time Data Pipeline Development
-
----
-
-Feel free to explore my projects or reach out. I'm always up for collaborations and new ideas in the world of data.
-
-<!--
-**Gallahad12/Gallahad12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- B.Sc. Computer Science, Bina Nusantara University, with an exchange semester at Universiti Utara Malaysia
+- Data Analytics Bootcamp, Hacktiv8 (2025)
